@@ -305,6 +305,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] URL preview and safety checking
 
 
----
-
-Made with ❤️ by [Your Name]
